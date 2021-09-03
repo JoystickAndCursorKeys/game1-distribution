@@ -14,10 +14,9 @@ The documentation contains also references to the online examples, and other med
 DOWNLOAD LINKS:
 ------------------------------------------------
 
-LIBRARY ZIPFILE
+LIBRARY ZIPFILE: 
 https://github.com/JoystickAndCursorKeys/game1-distribution/blob/main/game1-core.zip?raw=true
 
 
-EXAMPLES ZIPFILE
-
+EXAMPLES ZIPFILE: 
 https://github.com/JoystickAndCursorKeys/game1-distribution/blob/main/game1-examples.zip?raw=true
