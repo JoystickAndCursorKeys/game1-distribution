@@ -9,3 +9,8 @@ The documentation is posted here:
 https://github.com/JoystickAndCursorKeys/game1/wiki
 
 The documentation contains also references to the online examples, and other media explaining the engine.
+
+
+DOWNLOAD LINKS:
+https://github.com/JoystickAndCursorKeys/game1-distribution/blob/main/game1-core.zip?raw=true
+https://github.com/JoystickAndCursorKeys/game1-distribution/blob/main/game1-examples.zip?raw=true
