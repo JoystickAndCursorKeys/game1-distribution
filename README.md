@@ -12,5 +12,7 @@ The documentation contains also references to the online examples, and other med
 
 
 DOWNLOAD LINKS:
+
 https://github.com/JoystickAndCursorKeys/game1-distribution/blob/main/game1-core.zip?raw=true
+
 https://github.com/JoystickAndCursorKeys/game1-distribution/blob/main/game1-examples.zip?raw=true
