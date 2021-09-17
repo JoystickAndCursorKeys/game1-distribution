@@ -15,7 +15,7 @@ DOWNLOAD LINKS:
 ------------------------------------------------
 
 LIBRARY ZIPFILE: 
-https://github.com/JoystickAndCursorKeys/game1-distribution/blob/main/game1-core.zip?raw=true
+[LIBRARY ZIPFILE](https://github.com/JoystickAndCursorKeys/game1-distribution/blob/main/game1-core.zip?raw=true)
 
 
 EXAMPLES ZIPFILE: 
