@@ -15,10 +15,10 @@ DOWNLOAD LINKS:
 ------------------------------------------------
 
 LIBRARY ZIPFILE: 
-[Download](https://github.com/JoystickAndCursorKeys/game1-distribution/blob/main/game1-core.zip?raw=true)
+[Download](https://github.com/JoystickAndCursorKeys/game1-distribution/blob/main/game1-core_1.0.0.zip?raw=true)
 
 
 EXAMPLES ZIPFILE: 
-[Download](https://github.com/JoystickAndCursorKeys/game1-distribution/blob/main/game1-examples.zip?raw=true)
+[Download](https://github.com/JoystickAndCursorKeys/game1-distribution/blob/main/game1-examples_1.0.0.zip?raw=true)
 
 Please don't forget to read the README.txt file, after download.
